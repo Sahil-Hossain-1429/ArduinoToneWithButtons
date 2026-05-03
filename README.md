@@ -20,6 +20,9 @@ A simple yet functional **musical keyboard** built with Arduino Uno, 4 push butt
 
 ---
 
+## Preview
+![Arduino Tone With Buttons](ArduinoToneWithButtons.jpg)
+
 ## Features
 
 - **4 Programmable Buttons** - Each plays a different musical note
