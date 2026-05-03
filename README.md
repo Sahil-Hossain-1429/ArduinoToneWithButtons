@@ -1,7 +1,5 @@
 # ArduinoToneWithButtons
 
-# Arduino Tone Keyboard
-
 A simple yet functional **musical keyboard** built with Arduino Uno, 4 push buttons, and a piezo buzzer. Press buttons to play musical notes with proper debouncing and adjustable frequencies.
 
 ![Arduino](https://img.shields.io/badge/platform-Arduino%20Uno-blue)
